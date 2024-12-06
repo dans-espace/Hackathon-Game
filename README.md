@@ -3,6 +3,8 @@ In this game, you must defend Lynn Rose from an alien attack.
 Use the spacebar to shoot.
 Use left and right arrow keys to move left and right respectively.
 
+Unzip the attached file and run the script to play.
+
 # Sources Used:
 https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial
 https://www.pygame.org/docs/
